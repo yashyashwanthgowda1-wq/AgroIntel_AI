@@ -1,0 +1,5 @@
+AgroIntel AI Comprehensive Report
+Timestamp: 2026-05-31 00:20:11.385947
+Crop: pigeonpeas
+Yield: 20.73
+Profit: ₹110,514.32

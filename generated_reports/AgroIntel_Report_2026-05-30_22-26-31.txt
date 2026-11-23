@@ -1,0 +1,5 @@
+AgroIntel AI Comprehensive Report
+Timestamp: 2026-05-30 22:26:31.105614
+Crop: mango
+Yield: 25.80
+Profit: ₹197,610.43

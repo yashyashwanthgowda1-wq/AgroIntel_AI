@@ -1,0 +1,24 @@
+AgroIntel AI Comprehensive Report
+============================================
+Timestamp: 2026-05-30 22:12:55
+
+[SOIL METRICS]
+- Nitrogen: 50.0
+- Phosphorus: 45.0
+- Potassium: 40.0
+- pH Level: 6.5
+- Temperature: 25.0°C
+- Humidity: 60.0%
+- Rainfall: 120.0 mm
+
+[EVALUATION RESULTS]
+- Soil Health Status: 🟡 Moderate
+- Recommended Crop: mango
+- Recommended Fertilizer: Organic Compost Recommended
+- Total Predicted Yield: 30.17 Units
+
+[FINANCIAL ESTIMATES]
+- Farm Size: 1.0 Acres
+- Total Investment Cost: ₹ 15,000.00
+- Estimated Gross Revenue: ₹ 241,353.54
+- Estimated Net Profit: ₹ 226,353.54
